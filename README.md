@@ -32,9 +32,9 @@ Proje, **katmanlı mimari** prensiplerine uygun olarak geliştirilmiştir:
 ## 📸 Ekran Görüntüleri
 
 | Ürünler |
-|---------------|-----------|
-| ![Üürün](ürün.png) |
+|---------------|
+| ![ürün](ürün.png) |
 
 | Stoklar |
-|--------------|--------------|
+|--------------|
 | ![Stok Versiyonları](version.png) | 
