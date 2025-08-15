@@ -27,21 +27,14 @@ Proje, **katmanlı mimari** prensiplerine uygun olarak geliştirilmiştir:
 
 ---
 
-## ⚙️ Kurulum
 
-1. **Depoyu Klonla**
-```bash
-git clone https://github.com/bberkaysari/e-commerceLaravel.git
-cd e-commerceLaravel
-
----
 
 ## 📸 Ekran Görüntüleri
 
 | Ürünler |
 |---------------|-----------|
-| ![Üürün](screenshots/ürün.png) |
+| ![Üürün](ürün.png) |
 
 | Stoklar |
 |--------------|--------------|
-| ![Stok Versiyonları](screenshots/version.png) | 
+| ![Stok Versiyonları](version.png) | 
