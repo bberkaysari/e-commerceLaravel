@@ -33,7 +33,7 @@ Proje, **katmanlı mimari** prensiplerine uygun olarak geliştirilmiştir:
 
 | Ürünler |
 |---------------|
-| ![ürün](ürün.png) |
+| ![ürün](urun.png) |
 
 | Stoklar |
 |--------------|
